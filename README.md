@@ -32,7 +32,6 @@ It is designed in **KiCad** with the following specifications:
 
 ## 🛠 Tools Used
 - **KiCad 7/8** → Schematic & PCB design  
-- **BOM Generator** → CSV output  
 - **GitHub** → Version control & project hosting  
 
 ---

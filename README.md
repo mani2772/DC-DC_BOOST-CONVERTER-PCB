@@ -11,9 +11,8 @@ It is designed in **KiCad** with the following specifications:
 
 
 ## 📂 Repository Structure
-- `Task1_BOOST-CONVERTER/Schematics/` → KiCad schematic files (`.kicad_sch`, `.kicad_pro`)  
-- `Task1_BOOST-CONVERTER/PCB/` → PCB layout file (`.kicad_pcb`)  
-- `Task1_BOOST-CONVERTER/BOM/` → Bill of Materials (`.csv`)  
+- `TASK_BOOST-CONVERTER/Schematics/` → KiCad schematic files (`.kicad_sch`, `.kicad_pro`)  
+- `TASK_BOOST-CONVERTER/PCB/` → PCB layout file (`.kicad_pcb`)  
 - `BOOST_CONVERTER` → Snapshots of schematic & PCB (`.png`)  
 
 ---

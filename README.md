@@ -11,23 +11,23 @@ It is designed in **KiCad** with the following specifications:
 
 
 ## 📂 Repository Structure
-- `Task1_buck_converter/Schematics/` → KiCad schematic files (`.kicad_sch`, `.kicad_pro`)  
-- `Task1_buck_converter/PCB/` → PCB layout file (`.kicad_pcb`)  
-- `Task1_buck_converter/BOM/` → Bill of Materials (`.csv`)  
-- `MEDIA/` → Snapshots of schematic & PCB (`.png`)  
+- `Task1_BOOST-CONVERTER/Schematics/` → KiCad schematic files (`.kicad_sch`, `.kicad_pro`)  
+- `Task1_BOOST-CONVERTER/PCB/` → PCB layout file (`.kicad_pcb`)  
+- `Task1_BOOST-CONVERTER/BOM/` → Bill of Materials (`.csv`)  
+- `BOOST_CONVERTER` → Snapshots of schematic & PCB (`.png`)  
 
 ---
 
 ## 📷 Design Media
 
 ### 🔹3D-VIEW
-![Design](MEDIA/3D-VIEW.png)
+![Design](BOOST_CONVERTER/3D-VIEW.png)
 
 ### 🔹Schematic
-![Schematic](MEDIA/Schematic.png)
+![Schematic](BOOST_CONVERTER/Schematic.png)
 
 ### 🔹Routing 
-![PCB Routing](MEDIA/Routing.png)
+![PCB Routing](BOOST_CONVERTER/Routing.png)
 
 ---
 

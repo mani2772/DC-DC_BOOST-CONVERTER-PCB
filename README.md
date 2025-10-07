@@ -31,12 +31,9 @@ It is designed in **KiCad** with the following specifications:
 ---
 
 ## 🛠 Tools Used
-- **KiCad 7/8** → Schematic & PCB design  
+- **KiCad 9** → Schematic & PCB design  
 - **GitHub** → Version control & project hosting  
 
 ---
-
-## 🚀 Getting Started
-Clone this repository:
-```bash
-git clone https://github.com/your-username/XL6009-DC-DC_BOOST-CONVERTER.git
+DUNNA MANIKANTA
+bt22ece104@iiitn.ac.in
